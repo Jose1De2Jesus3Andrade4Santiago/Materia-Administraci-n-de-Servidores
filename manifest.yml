@@ -1,0 +1,5 @@
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack
+  name: Tarea3AdministracionServidores
+  memory: 64M
+random-route: true
